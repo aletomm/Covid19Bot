@@ -14,3 +14,11 @@ Tutti i dati provengono dal [Dipartimento della Protezione Civile](https://githu
 - Aggiornamento giornaliero dell'andamento di Covid19 in Italia: /ultimeNews
 - Lista delle regioni: /regioni
 - Lista dei comandi: /info
+
+### Crediti
+- Alessandro Tommasin
+
+Ispirato ad un progetto di [Mariano Sciacco](https://github.com/Maxelweb)
+
+### License
+MIT License
