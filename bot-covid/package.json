@@ -1,0 +1,17 @@
+{
+  "name": "bot-covid",
+  "version": "1.0.0",
+  "description": "Bot per il tracciamento di Covid-19",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "telegraf": "^3.37.0"
+  }
+}

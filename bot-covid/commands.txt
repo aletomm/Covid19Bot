@@ -1,0 +1,2 @@
+info - Lista dei comandi
+ultimeNews - Aggiornamento giornaliero
